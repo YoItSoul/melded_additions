@@ -1,0 +1,22 @@
+{
+  "jojo_sunrise": {
+    "sounds": [
+      {
+        "name": "meldedadditions:jojo_sunrise",
+        "stream": true
+      }
+    ]
+
+
+  },
+  "jojo_stencil": {
+    "sounds": [
+      {
+        "name": "meldedadditions:jojo_stencil",
+        "stream": true
+      }
+    ]
+
+
+  }
+}

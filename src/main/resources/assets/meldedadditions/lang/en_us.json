@@ -1,0 +1,26 @@
+{
+  "item.meldedadditions.pyrotin": "Pyrotin",
+  "item.meldedadditions.aerilium": "Aerilium",
+  "item.meldedadditions.terracor": "Terracor",
+  "item.meldedadditions.aquium": "Aquium",
+  "item.meldedadditions.blanktablet": "Blank Tablet",
+  "item.meldedadditions.earthtablet": "Gi Tablet",
+  "item.meldedadditions.airtablet": "Aeras Tablet",
+  "item.meldedadditions.firetablet": "Fotia Tablet",
+  "item.meldedadditions.watertablet": "Nero Tablet",
+  "item.meldedadditions.waitlist": "Waitlist Album",
+  "item.meldedadditions.waitlist.desc": "Decorative item of Mangonade's Waitlist album",
+  "item.meldedadditions.stencildisc": "Stencil Music Disc",
+  "item.meldedadditions.stencildisc.desc": "Mangonade - Stencil (CCO)",
+  "item.meldedadditions.sunrisedisc": "Sunrise Music Disc",
+  "item.meldedadditions.sunrisedisc.desc": "Mangonade - Sunrise (CCO)",
+  "block.meldedadditions.terracor_block": "Terracor Block",
+  "block.meldedadditions.pyrotin_block": "Pyrotin Block",
+  "block.meldedadditions.aerilium_block": "Aerilium Block",
+  "block.meldedadditions.aquium_block": "Aquium Block",
+
+
+
+  "creativetab.meldedadditions_tab": "Melded Additions"
+
+}
